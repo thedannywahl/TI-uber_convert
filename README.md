@@ -1,4 +1,4 @@
-![ScreenShot](Uber Convert.png)
+![ScreenShot](https://raw.githubusercontent.com/thedannywahl/TI-uber_convert/master/Uber%20Convert.png)
 
 # Über Convert
 
