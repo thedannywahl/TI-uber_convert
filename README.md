@@ -6,42 +6,42 @@
 
 ## Applications
 
-###Temperature
+### Temperature
 To/From:
 * Celcius
 * Fahrenheit
 * Kelvins
 
-###Measurements
+### Measurements
 To/From:
 * Metric
 * Standard/English
 
-###Energy
+### Energy
 To/From:
 * (kilo)calories
 * (kilo)joules
 
-###Mass/Volume/Density
+### Mass/Volume/Density
 Solve for:
 * Mass
 * Volume
 * Density
 
-###Light Energy
+### Light Energy
 Solve for:
 * Frequency
 * Wavelength (nm)
 * Wavelength (m)
 * Light (j*s)
 
-###Calories
+### Calories
 Solve for:
 * Mass
 * Delta temp
 * Calories
 
-###Pressure
+### Pressure
 Solve for:
 * Pressure
 * Force
